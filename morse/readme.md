@@ -17,3 +17,7 @@ http://primepuzzle.com/not.just.tiny.c/demorse.tc
 Other 
 
 https://github.com/gitcnd/MorseLED/blob/master/MorseLED.cpp
+
+Tiny Basic Samples
+
+https://github.com/tgibson37/tiny-c/tree/master/SamplePrograms
