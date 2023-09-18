@@ -9,6 +9,9 @@ Create a particle system in QB64
 
 ![SAMPLE](Explosion.png)
 
-Source Code
+Explosion Source Code
 [Particle.bas](Particle.bas)
+
+Gravity Source Code
+[Particle_gravity.bas](Particle_gravity.bas)
 
