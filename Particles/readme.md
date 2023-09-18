@@ -1,6 +1,6 @@
 # Explosion
 
-Create a particle system in QB
+Create a particle system in QB64
 
 - Create array with objects
 - Define aceleration and direction
