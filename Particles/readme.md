@@ -7,3 +7,5 @@ Create a particle system in QB
 - Make a do loop and move every object
 - show result
 
+![SAMPLE](Explosion.png)
+
