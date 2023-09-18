@@ -2,7 +2,7 @@
 Screen 0
 Screen 12
 Cls
-Print "Particles by Carlos Chang FB @sistemaswebchang"
+Print "Particles by Carlos Chang FB @sistemaswebchang QB64 version"
 Type Item
     x As Integer
     y As Integer
