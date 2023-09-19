@@ -8,3 +8,10 @@ y = a sin(f(x +p)) + d
 1. p is phase shift 
 1. d is displacement
 1. Test your program with (-1,5) (3,-1)
+
+
+# Solution
+
+Excel sheet with formulas and validation cells (K4, K5)
+
+Run Solver() procedure from VBA
